@@ -703,7 +703,7 @@ In many cases, stability equals or slightly exceeds native Windows.
 
 ## WSL2 Requirements
 
-1. Windows 11
+1. Windows 10 or 11
 2. Latest NVIDIA Windows driver (with WSL support)
 3. WSL2 enabled
 4. Ubuntu (or similar) installed via Microsoft Store
